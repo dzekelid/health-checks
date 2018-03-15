@@ -40,7 +40,7 @@ apis:
   tags: Health Checks
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/health-checks/master/_listings/aws-route-53/2013-04-01-healthcheckcount-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/health-checks/master/_listings/aws-route-53/2013-04-01-healthcheck-healthcheckid-lastfailurereason-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/Route53/latest/APIReference/
