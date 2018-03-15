@@ -26,8 +26,8 @@ x-alexaRank: ""
 tags:
 - DNS
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/health-checks/master/_listings/aws-route-53/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -40,7 +40,7 @@ apis:
   tags: Health Checks
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/health-checks/master/_listings/aws-route-53/2013-04-01-healthcheck-healthcheckid-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/health-checks/master/_listings/aws-route-53/2013-04-01-healthcheck-post.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/Route53/latest/APIReference/
